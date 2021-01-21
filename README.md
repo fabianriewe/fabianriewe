@@ -1,3 +1,5 @@
+<img src="https://github.com/fabianriewe/fabianriewe/raw/master/media/bg.png" align="right" width="200">
+
 ### Hi there 👋
 
 <!--
