@@ -1,4 +1,4 @@
-<img src="https://github.com/fabianriewe/fabianriewe/raw/master/memoji.png" align="right" width="200">
+<img src="https://github.com/fabianriewe/fabianriewe/raw/main/memoji.png" align="right" width="200">
 
 ### Hi there 👋
 
